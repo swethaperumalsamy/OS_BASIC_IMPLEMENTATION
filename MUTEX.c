@@ -1,3 +1,5 @@
+5. Create two threads and use a mutex before printing a message.
+    
 #include <stdio.h>
 #include <pthread.h>
 
