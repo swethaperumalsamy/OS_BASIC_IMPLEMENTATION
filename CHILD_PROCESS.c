@@ -1,4 +1,4 @@
-1. Create a file named test.txt and write the text "Hello Linux" into it.
+3.Create a child process and print a message from both the parent and child.
 
 #include <stdio.h>
 #include <unistd.h>
