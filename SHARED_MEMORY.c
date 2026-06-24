@@ -1,3 +1,5 @@
+9. Store the text "Hello Shared Memory" in shared memory and display it
+
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
