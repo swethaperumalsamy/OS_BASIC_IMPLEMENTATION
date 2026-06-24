@@ -1,4 +1,4 @@
-10. Send the message "Hello Queue" using a message 
+10. Send the message "Hello Queue" using a message queue and receive it in another process.
     
 #include <stdio.h>
 #include <sys/ipc.h>
