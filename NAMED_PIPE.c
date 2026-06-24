@@ -1,3 +1,5 @@
+8.Write a message into a named pipe and read it from another program.
+
 writer.c 
 
 #include <stdio.h>
