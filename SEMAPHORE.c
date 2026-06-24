@@ -1,3 +1,5 @@
+6.Create two threads and use a semaphore to allow only one thread to print at a time.
+    
 #include <stdio.h>
 #include <pthread.h>
 #include <semaphore.h>
