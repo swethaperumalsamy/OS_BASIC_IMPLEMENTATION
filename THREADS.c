@@ -1,3 +1,5 @@
+4. Create a thread that prints "Hello Thread"
+    
 #include <stdio.h>
 #include <pthread.h>
 
