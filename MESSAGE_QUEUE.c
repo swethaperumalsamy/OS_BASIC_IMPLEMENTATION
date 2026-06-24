@@ -1,3 +1,5 @@
+10. Send the message "Hello Queue" using a message 
+    
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
