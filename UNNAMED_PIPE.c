@@ -1,3 +1,5 @@
+7. Send the message "Hello Child" from the parent process to the child process through a pipe.
+    
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
